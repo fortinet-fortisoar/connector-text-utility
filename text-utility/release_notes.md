@@ -4,8 +4,8 @@
 
 - Working of `Get Sentences Similarity` action is optimised.
 
-- The following dependency is now removed:
+- The following dependencies have been removed:
   - networkx
   - sentence-transformers
 
-- A new dependency, `rapidfuzz` and `oletools` have been added.
+- The dependencies rapidfuzz and oletools have been added.
