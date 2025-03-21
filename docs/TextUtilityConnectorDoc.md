@@ -15,6 +15,7 @@ Certified: No
 Following enhancements have been made to the Text Utility Connector in version 1.1.0:
 <ul>
 <li>Added new action <code>Extract Macros</code>.</li>
+<li>Working of <code>Get Sentences Similarity</code> action is optimised.</li>
 <li><p>The following dependencies have been removed:</p>
 
 <ul>
