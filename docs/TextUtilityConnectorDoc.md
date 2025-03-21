@@ -15,15 +15,14 @@ Certified: No
 Following enhancements have been made to the Text Utility Connector in version 1.1.0:
 <ul>
 <li>Added new action <code>Extract Macros</code>.</li>
-<li></li>
-<li><p>The following dependency is now removed:</p>
+<li>Working of <code>Get Sentences Similarity</code> action is optimised.</li>
+<li><p>The following dependencies have been removed:</p>
 
 <ul>
 <li>networkx</li>
 <li>sentence-transformers</li>
 </ul></li>
-
-<li>A new dependency, <code>rapidfuzz</code> and <code>oletools</code> have been added.</li>
+<li>The dependencies <code>rapidfuzz</code> and <code>oletools</code> have been added.</li>
 </ul>
 
 ## Installing the connector
